@@ -264,13 +264,13 @@ text-transform:none;
 -webkit-box-shadow: none;
 -moz-box-shadow: none;
 box-shadow: none;
-background:#111; /*change here to edit theme's color*/
+background:#C00003; /*change here to edit theme's color*/
 color:#fff;
 }
 
 .orange-bar{
 background:#f9f9f9 ;
-color:#111;
+color:#C00003;
 padding:15px 15px 0px;
 font-family: 'Montserrat',sans-serif;
 }
@@ -639,7 +639,7 @@ color:#fff;
 .navigation-bar--ktransparent-toolbar,
 .button--green-button
 {
-background:#111; /*change here to edit theme's color*/
+background:#C00003; /*change here to edit theme's color*/
 color:#fff;
 }
 
@@ -695,7 +695,7 @@ margin-top:30px;
 }
 
 .list--list-blue-bg .list__item{
-background:#111; /*change here to edit theme's color*/
+background:#C00003; /*change here to edit theme's color*/
 color:#fff;
 }
 .top40{
@@ -1160,7 +1160,7 @@ padding-left:10px;
 }
 
 .send-btn {
-background: #111; /*change here to edit theme's color*/
+background: #C00003; /*change here to edit theme's color*/
 height: 44px;
 width: 44px;
 border-radius: 3px;
